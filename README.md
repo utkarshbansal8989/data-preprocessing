@@ -1,2 +1,2 @@
 # data-preprocessing
-the data preprocessing in machine learning
+The basic data preprocessing template for machine learning.
